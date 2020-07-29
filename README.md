@@ -1,9 +1,9 @@
 # Reflow
 
-# Accessible Dir
+# Accessible Directory
 
 Contains the accessible version of the reflow activity example
 
-# Inaccessible
+# Inaccessible Directory
 
 Contains the accessible version of the reflow activity example
