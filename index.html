@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reflow</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="nav">
+      <ul>
+        <li class="lead"><a href="#">Zapado</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Sell</a></li>
+        <li><a href="#">Home</a></li>
+      </ul>
+    </div>
+    <main>
+      <!--Form Row-->
+      <div class="form">
+        <form>
+          <label for="firstName">First Name</label><br />
+          <input name="firstName" type="text" /><br /><br />
+          <label for="lastName">Last Name</label><br />
+          <input name="lastName" type="text" /><br /><br />
+          <label for="SSNum">SS Number</label><br />
+          <input name="SSNum" type="text" /><br /><br />
+          <label for="basicInfo">Basic Info</label><br />
+          <input name="basicInfo" type="text" /><br /><br />
+          <input
+            style="background-color: #99d5ca;"
+            type="submit"
+            value="Submit"
+            onclick="this.form.submit(); return false;"
+          />
+        </form>
+      </div>
+      <div class="exForm">
+        <p>
+          By submitting this for you are agreeing to sign over your life savings
+          and your first born. We here at Zapado's respect your privacy and will
+          only sell your information to the highest selling corporations
+        </p>
+        <br /><br /><br /><br />
+        <input
+          style="background-color: #ffbbb1;"
+          type="submit"
+          value="Exit"
+          onclick="this.form.submit(); return false;"
+        />
+      </div>
+      <!--Other Row-->
+      <div class="info">
+        <p>
+          Due to the COVID-19 outbreak we will be taking certain precautions to
+          help you out.
+        </p>
+        <br />
+        <p>
+          We have also made it easier for you to give positive reviews!
+        </p>
+      </div>
+      <div class="exInfo">
+        <p>
+          We have started by making it much easier to input your bank
+          information.
+        </p>
+        <br />
+        <p>
+          If you feel the need to leave a negative review please do so and we
+          will make you disappear. Problem Solved!
+        </p>
+      </div>
+    </main>
+  </body>
+</html>
