@@ -6,4 +6,4 @@ Contains the accessible version of the reflow activity example
 
 # Inaccessible Directory
 
-Contains the accessible version of the reflow activity example
+Contains the inaccessible version of the reflow activity example
