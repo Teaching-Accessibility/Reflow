@@ -39,25 +39,38 @@ li a:hover {
 }
 
 /*----------Form---------------*/
-.form {
+#form {
   position: absolute;
   width: 850px;
   margin-top: 60px;
   color: black;
 }
 
-.exForm {
+#exForm {
   position: absolute;
   margin-top: 60px;
   margin-left: 1350px;
 }
 
 /*----------Other Info---------------*/
-.info,
-.exInfo {
+#info,
+#exInfo {
   text-align: center;
   position: absolute;
   margin-top: 400px;
+}
+
+#buttons {
+  position: absolute;
+  margin-top: 300px;
+}
+
+#submit {
+  margin-left: 0px;
+}
+
+#exit {
+  margin-left: 1350px;
 }
 
 p {
@@ -67,10 +80,10 @@ p {
   margin: 14px;
 }
 
-.info {
+#info {
   margin-left: 0px;
 }
 
-.exInfo {
+#exInfo {
   margin-left: 1350px;
 }
