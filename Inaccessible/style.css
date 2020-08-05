@@ -80,10 +80,18 @@ p {
   margin: 14px;
 }
 
+.submit {
+  width: 20%;
+}
+
 #info {
   margin-left: 0px;
 }
 
 #exInfo {
   margin-left: 1350px;
+}
+
+.hamburgerMenu {
+  display: none;
 }

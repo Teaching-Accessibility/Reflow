@@ -28,14 +28,41 @@ li a:hover {
   float: left;
 }
 
-.submit {
-  width: 20%;
+/*----------Hamburger Nav---------------*/
+li.navLI {
+  display: none;
+}
+
+li.hamburgerMenu {
+  display: block;
+}
+
+@media only screen and (min-width: 601px) {
+  li.navLI {
+    display: block;
+  }
+  li.hamburgerMenu {
+    display: none;
+  }
+}
+
+i {
+  color: white;
+}
+
+i:before {
+  font-size: 28px;
+  margin-right: 20px;
 }
 
 /*----------Other Info---------------*/
 p {
   border: solid black;
   padding: 14px;
+}
+
+.submit {
+  width: 20%;
 }
 
 /*----------Flex Box-----------*/
@@ -57,28 +84,4 @@ p {
   .column {
     flex: 2;
   }
-}
-li.navLI {
-  display: none;
-}
-li.hamburgerMenu {
-  display: block;
-}
-
-@media only screen and (min-width: 601px) {
-  li.navLI {
-    display: block;
-  }
-  li.hamburgerMenu {
-    display: none;
-  }
-}
-
-i {
-  color: white;
-}
-
-i:before {
-  font-size: 28px;
-  margin-right: 20px;
 }
