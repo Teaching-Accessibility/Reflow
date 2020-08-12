@@ -7,7 +7,7 @@
 3. [Launch](#Launch)
    - [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity)
    - [Reflow Lecture](#Reflow-Lecture)
-   - [Fixing the Inaccessible Website](#Fixing_the_Inaccessible_Website)
+   - [Fixing the Inaccessible Website](#Fixing-the-Inaccessible-Website)
 
 ## Introduction
 
@@ -25,6 +25,8 @@ What you decide to use from this material can go in most any order, but this is 
 
 ### Inaccessible vs Accessible Activity
 
+The intent behind this activity is to demonstrate a website with faulty reflow design (the inaccessible page) and quiz the students on what information is on the page. Then, we will show the students the accessible page and quiz them again with the same quiz to show the change in answers now that they have the whole picture.
+
 - Activity: [Inaccessible](https://teaching-accessibility.github.io/ReflowCC/Inaccessible/)
   - This activity lets you review an inaccessable website where reflow is the main issue
   - Script: The script for the Inaccessible site is found in the [directory as Inaccessible](Activity/Inaccessible)
@@ -38,6 +40,8 @@ What you decide to use from this material can go in most any order, but this is 
 
 ### Reflow Lecture
 
+The intent behind the lecture is to provide a modular teaching material that has the information pre-prepared for a presentation. To test that students learned the major points of the lecture, there is also a quiz.
+
 - Slides: [Reflow-Slides](Lecture/Cognitive_Impairment_Activity.pptx)
   - Slides designed for ease of implementation in your own course
 - Video: [Slides with Video]()
@@ -45,7 +49,11 @@ What you decide to use from this material can go in most any order, but this is 
 - Quiz: [Reflow Lecture Quiz](https://docs.google.com/forms/d/1hUdHrl87FpNOUdn344dkLbCHCNk7jIs-s0nuOjeDNhc/edit)
   - This quiz asks students to answer questions based on the various topics discussed in the lecture pertaining to reflow
 
-### Fixing the Inaccessible Website
+### Fixing the Inaccessible Website Activity
 
-- Script: The script for the Inaccessible site is found in the [directory as Inaccessible](Activity/Inaccessible)
+This activity is based off of the first activity and is intented to allow students a hands-on approach to fixing the inaccessible website. While the script for the accessible and inaccessible are both in the github, there are also step-by-step guides for fixing reflow ishes. The .docx is intended to be the step-by-step guide to fixing the [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity), and the .pdf file is a more generalized aproach.
+
+- Script: The [script for the Inaccessible site](Activity/Inaccessible)
+- Tutorial: [The step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Step_by_Step_to_Fix_Inaccessible.docx)
+- Tutorial: [Generalized step-by-step fix the inaccessible website](Activity\Step-by-Step-Fix\Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
 - Script: The script for the Accessible site is found in the [directory as Accessible](Activity/Accessible)
