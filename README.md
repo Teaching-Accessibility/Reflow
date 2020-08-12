@@ -55,5 +55,11 @@ This activity is based off of the first activity and is intented to allow studen
 
 - Script: The [script for the Inaccessible site](Activity/Inaccessible)
 - Tutorial: [The step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Step_by_Step_to_Fix_Inaccessible.docx)
-- Tutorial: [Generalized step-by-step fix the inaccessible website](Activity\Step-by-Step-Fix\Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
+- Tutorial: [Generalized step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
 - Script: The [script for the Accessible site](Activity/Accessible)
+
+### Case Study
+
+This study is intented for students who are looking to further their understanding of what exactly Reflow is and to jump into the rabbit hole of what it can be used for.
+
+- Case Study: [Reflow Case Study](Case_Study/Case_Study_on_Reflow.docx)
