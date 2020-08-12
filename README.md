@@ -7,7 +7,7 @@
 3. [Launch](#Launch)
    - [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity)
    - [Reflow Lecture](#Reflow-Lecture)
-   - [Fixing the Inaccessible Website](#Fixing-the-Inaccessible-Website)
+   - [Fixing the Inaccessible Website](#Fixing-the-Inaccessible-Website-Activity)
 
 ## Introduction
 
@@ -56,4 +56,4 @@ This activity is based off of the first activity and is intented to allow studen
 - Script: The [script for the Inaccessible site](Activity/Inaccessible)
 - Tutorial: [The step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Step_by_Step_to_Fix_Inaccessible.docx)
 - Tutorial: [Generalized step-by-step fix the inaccessible website](Activity\Step-by-Step-Fix\Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
-- Script: The script for the Accessible site is found in the [directory as Accessible](Activity/Accessible)
+- Script: The [script for the Accessible site](Activity/Accessible)
