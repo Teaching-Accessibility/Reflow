@@ -35,7 +35,7 @@ What you decide to use from this material can go in most any order, but this is 
 
 ### Reflow Lecture
 
-- Slides: [Reflow-Slides](Lecture/"Cognitive Impairment Activity.pptx")
+- Slides: [Reflow-Slides](Lecture/Cognitive Impairment Activity.pptx)
   - Slides designed for ease of implementation in your own course
 - Video: [Slides with Video]()
   - Generally the same content as the slides
