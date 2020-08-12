@@ -8,10 +8,13 @@
    - [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity)
    - [Reflow Lecture](#Reflow-Lecture)
    - [Fixing the Inaccessible Website](#Fixing-the-Inaccessible-Website-Activity)
+   - [Case Study](#Case-Study)
 
 ## Introduction
 
 This project is created by RIT (Rochester Institute of Technology) and funded by the NSF (National Science Foundation). The goal of this project is to inform and educate people about the topic of Reflow in terms of accessibility.
+
+> All .pdf file types have corresponding .docx file types if you wish for custimization
 
 ## Technologies
 
@@ -51,10 +54,10 @@ The intent behind the lecture is to provide a modular teaching material that has
 
 ### Fixing the Inaccessible Website Activity
 
-This activity is based off of the first activity and is intented to allow students a hands-on approach to fixing the inaccessible website. While the script for the accessible and inaccessible are both in the github, there are also step-by-step guides for fixing reflow ishes. The .docx is intended to be the step-by-step guide to fixing the [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity), and the .pdf file is a more generalized aproach.
+This activity is based off of the first activity and is intented to allow students a hands-on approach to fixing the inaccessible website. While the script for the accessible and inaccessible are both in the github, there are also step-by-step guides for fixing reflow ishes. The _The step-by-step fix the inaccessible website_ is intended to be the step-by-step guide to fixing the [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity), and the _Generalized step-by-step fix the inaccessible website_ file is a more generalized aproach.
 
 - Script: The [script for the Inaccessible site](Activity/Inaccessible)
-- Tutorial: [The step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Step_by_Step_to_Fix_Inaccessible.docx)
+- Tutorial: [The step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Step_by_Step_to_Fix_Inaccessible.pdf)
 - Tutorial: [Generalized step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
 - Script: The [script for the Accessible site](Activity/Accessible)
 
@@ -62,4 +65,4 @@ This activity is based off of the first activity and is intented to allow studen
 
 This study is intented for students who are looking to further their understanding of what exactly Reflow is and to jump into the rabbit hole of what it can be used for.
 
-- Case Study: [Reflow Case Study](Case_Study/Case_Study_on_Reflow.docx)
+- Case Study: [Reflow Case Study](Case_Study/Case_Study_on_Reflow.pdf)
