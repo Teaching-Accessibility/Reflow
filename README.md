@@ -5,6 +5,9 @@
 1. [Introduction](#Introduction)
 2. [Technologies](#Technologies)
 3. [Launch](#Launch)
+   - [Inaccessible vs Accessible Activity](#Inaccessible-vs-Accessible-Activity)
+   - [Reflow Lecture](#Reflow-Lecture)
+   - [Fixing the Inaccessible Website](#Fixing_the_Inaccessible_Website)
 
 ## Introduction
 
