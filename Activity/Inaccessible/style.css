@@ -1,0 +1,97 @@
+/*----------General----------*/
+/*prevent accidental scrolling*/
+body,
+html {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+/*----------Navigation---------*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: absolute;
+  width: 1700px;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #4caf50;
+}
+
+.lead {
+  float: left;
+}
+
+/*----------Form---------------*/
+#form {
+  position: absolute;
+  width: 850px;
+  margin-top: 60px;
+  color: black;
+}
+
+#exForm {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 1350px;
+}
+
+/*----------Other Info---------------*/
+#info,
+#exInfo {
+  text-align: center;
+  position: absolute;
+  margin-top: 400px;
+}
+
+#buttons {
+  position: absolute;
+  margin-top: 300px;
+}
+
+#submit {
+  margin-left: 0px;
+}
+
+#exit {
+  margin-left: 1350px;
+}
+
+p {
+  width: 300px;
+  border: solid black;
+  padding: 14px;
+  margin: 14px;
+}
+
+.submit {
+  width: 20%;
+}
+
+#info {
+  margin-left: 0px;
+}
+
+#exInfo {
+  margin-left: 1350px;
+}
+
+.hamburgerMenu {
+  display: none;
+}

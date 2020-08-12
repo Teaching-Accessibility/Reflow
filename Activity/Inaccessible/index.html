@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>No-Reflow</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div class="nav">
+      <ul>
+        <li class="lead"><a href="#">Zapado</a></li>
+        <li class="navLI"><a href="#">Contact</a></li>
+        <li class="navLI"><a href="#">About</a></li>
+        <li class="navLI"><a href="#">Sell</a></li>
+        <li class="navLI"><a href="#">Home</a></li>
+        <li class="hamburgerMenu"><i class="fa fa-bars"></i></li>
+      </ul>
+    </div>
+    <main>
+      <!--Form Row-->
+      <div class="row" id="formRow">
+        <div class="column" id="form">
+          <form id="personalInfo">
+            <label for="firstName">First Name</label><br />
+            <input name="firstName" type="text" /><br /><br />
+            <label for="lastName">Last Name</label><br />
+            <input name="lastName" type="text" /><br /><br />
+            <label for="SSNum">SS Number</label><br />
+            <input name="SSNum" type="text" /><br /><br />
+            <label for="basicInfo">Basic Info</label><br />
+            <input name="basicInfo" type="text" /><br /><br />
+          </form>
+        </div>
+        <div class="column" id="exForm">
+          <p>
+            By submitting this for you are agreeing to sign over your life
+            savings and your first born. We here at Zapado's respect your
+            privacy and will only sell your information to the highest selling
+            corporations
+          </p>
+        </div>
+      </div>
+      <!--Buttons-->
+      <div class="row" id="buttons">
+        <div class="column">
+          <input
+            for="personalInfo"
+            style="background-color: #99d5ca;"
+            type="submit"
+            value="Submit"
+            class="submit"
+            id="submit"
+            onclick="this.form.submit(); return false;"
+          />
+        </div>
+        <div class="column">
+          <input
+            style="background-color: #ffbbb1;"
+            type="submit"
+            value="Exit"
+            class="submit"
+            id="exit"
+            onclick="this.form.submit(); return false;"
+          />
+        </div>
+      </div>
+      <!--Other Notices-->
+      <div class="row" id="otherRow">
+        <div class="column" id="info">
+          <p>
+            Due to the COVID-19 outbreak we will be taking certain precautions
+            to help you out.
+          </p>
+          <br />
+          <p>
+            We have also made it easier for you to give positive reviews!
+          </p>
+        </div>
+        <div class="column" id="exInfo">
+          <p>
+            We have started by making it much easier to input your bank
+            information.
+          </p>
+          <br />
+          <p>
+            If you feel the need to leave a negative review please do so and we
+            will make you disappear. Problem Solved!
+          </p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

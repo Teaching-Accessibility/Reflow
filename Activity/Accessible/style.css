@@ -1,0 +1,87 @@
+/*----------Navigation---------*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #4caf50;
+}
+
+.lead {
+  float: left;
+}
+
+/*----------Hamburger Nav---------------*/
+li.navLI {
+  display: none;
+}
+
+li.hamburgerMenu {
+  display: block;
+}
+
+@media only screen and (min-width: 601px) {
+  li.navLI {
+    display: block;
+  }
+  li.hamburgerMenu {
+    display: none;
+  }
+}
+
+i {
+  color: white;
+}
+
+i:before {
+  font-size: 28px;
+  margin-right: 20px;
+}
+
+/*----------Other Info---------------*/
+p {
+  border: solid black;
+  padding: 14px;
+}
+
+.submit {
+  width: 20%;
+}
+
+/*----------Flex Box-----------*/
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  padding: 14px;
+}
+
+@media only screen and (min-width: 601px) {
+  .column {
+    flex: 2;
+  }
+}
