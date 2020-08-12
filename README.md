@@ -12,9 +12,9 @@
 
 ## Introduction
 
-This project is created by RIT (Rochester Institute of Technology) and funded by the NSF (National Science Foundation). The goal of this project is to inform and educate people about the topic of Reflow in terms of accessibility.
+This project is created by RIT (Rochester Institute of Technology) and funded by the NSF (National Science Foundation) award #1825023. The goal of this project is to inform and educate people about the topic of Reflow in terms of accessibility.
 
-> All .pdf file types have corresponding .docx file types if you wish for custimization
+> All .pdf file types have corresponding .docx file types if you wish for customization
 
 ## Technologies
 
