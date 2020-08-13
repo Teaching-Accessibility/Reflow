@@ -47,7 +47,7 @@ The intent behind the lecture is to provide a modular teaching material that has
 
 - Slides: [Reflow-Slides](Lecture/Cognitive_Impairment_Activity.pptx)
   - Slides designed for ease of implementation in your own course
-- Video: [Slides with Video]()
+- Video: [Slides with Video](https://drive.google.com/file/d/1RkeMt8evWKbg09OgKz4GKD2ka7xvpSnu/view?usp=sharing)
   - Generally the same content as the slides
 - Quiz: [Reflow Lecture Quiz](https://docs.google.com/forms/d/1hUdHrl87FpNOUdn344dkLbCHCNk7jIs-s0nuOjeDNhc/edit)
   - This quiz asks students to answer questions based on the various topics discussed in the lecture pertaining to reflow
