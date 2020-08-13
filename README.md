@@ -1,4 +1,4 @@
-# Cognitive impairment topic: Reflow
+# Cognitive Impairment Topic: Reflow
 
 ## Table of Contents
 
