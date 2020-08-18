@@ -9,6 +9,7 @@
    - [Reflow Lecture](#Reflow-Lecture)
    - [Fixing the Inaccessible Website](#Fixing-the-Inaccessible-Website-Activity)
    - [Case Study](#Case-Study)
+4. [Supplementary Materials](#Supplementary-Materials)
 
 ## Introduction
 
