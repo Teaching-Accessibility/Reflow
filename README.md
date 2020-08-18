@@ -1,4 +1,4 @@
-# Cognitive impairment topic: Reflow
+# Cognitive Impairment Topic: Reflow
 
 ## Table of Contents
 
@@ -46,9 +46,11 @@ The intent behind this activity is to demonstrate a website with faulty reflow d
 The intent behind the lecture is to provide a modular teaching material that has the information pre-prepared for a presentation. To test that students learned the major points of the lecture, there is also a quiz.
 
 - Slides: [Reflow-Slides](Lecture/Cognitive_Impairment_Activity.pptx)
+
   - Slides designed for ease of implementation in your own course
-- Video: [Slides with Video]()
+  - Video: [Slides with Video](https://drive.google.com/file/d/1RkeMt8evWKbg09OgKz4GKD2ka7xvpSnu/view?usp=sharing)
   - Generally the same content as the slides
+
 - Quiz: [Reflow Lecture Quiz](https://docs.google.com/forms/d/1hUdHrl87FpNOUdn344dkLbCHCNk7jIs-s0nuOjeDNhc/edit)
   - This quiz asks students to answer questions based on the various topics discussed in the lecture pertaining to reflow
 
@@ -58,11 +60,19 @@ This activity is based off of the first activity and is intented to allow studen
 
 - Script: The [script for the Inaccessible site](Activity/Inaccessible)
 - Tutorial: [The step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Step_by_Step_to_Fix_Inaccessible.pdf)
-- Tutorial: [Generalized step-by-step fix the inaccessible website](Activity/Step-by-Step-Fix/Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
+- Tutorial: [Generalized step-by-step fix the inaccessible website](Supplementary_Materials/Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
 - Script: The [script for the Accessible site](Activity/Accessible)
 
 ### Case Study
 
 This study is intented for students who are looking to further their understanding of what exactly Reflow is and to jump into the rabbit hole of what it can be used for.
 
-- Case Study: [Reflow Case Study](Case_Study/Case_Study_on_Reflow.pdf)
+- Case Study: [Reflow Case Study](Supplementary_Materials/Case_Study_on_Reflow.pdf)
+
+### Supplementary Materials
+
+This is intended as extra material to help teach about cognitive impairments with an emphasis on reflow. Please note that two of these materials had been previously mentioned. The third is a video of a student with ADHD who discusses what it is like and some of the problems he faces.
+
+- Tutorial: [Generalized step-by-step fix the inaccessible website](Supplementary_Materials/Generalized_Step_by_Step_to_Fix_Inaccessible.pdf)
+- Case Study: [Reflow Case Study](Supplementary_Materials/Case_Study_on_Reflow.pdf)
+- Video: [Student with ADHD](https://drive.google.com/file/d/1h-To8RZjtPc8W8LeLYHPVOo85Wc2e0fE/view?usp=sharing)
