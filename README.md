@@ -1,5 +1,5 @@
 # Cognitive Impairment Topic: Reflow
-More details on using the teaching materials can be found in the [paper](kelly2021introducing.pdf), citation: [bib](kelly2021introducing.bib)
+More details on using the teaching materials can be found in [this paper](kelly2021introducing.pdf), citation: [bib](kelly2021introducing.bib)
 ## Table of Contents
 
 1. [Introduction](#Introduction)
